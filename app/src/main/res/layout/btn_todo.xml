@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Button xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/buttonToDo"
+    android:layout_width="match_parent"
+    android:layout_height="90dp"
+    android:drawableEnd="@drawable/monochrome_exclamationmark_triangle__1_"
+    android:insetBottom="16dp"
+    android:onClick="showCustomDialog"
+    android:text="sample text"
+    android:textAlignment="viewStart"
+    android:textSize="24sp"
+    app:cornerRadius="18dp" />
